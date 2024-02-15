@@ -1,12 +1,12 @@
 # Terms of Use for *Daimon Law* Repositories
 
-Please be advised:
+By accessing, using, copying or modifying the content of the repositories on the Daimon-Law account on Github (https://github.com/Daimon-Law) (the "Daimon-Law Github"), you acknowledge and agree that:
 
 I am a lawyer admitted to practice in Victoria, Australia.
 
 Unless we have entered into a written engagement letter providing for paid legal services, I am not your lawyer and do not represent you or your interests. 
 
-Any contributions, repositories and pull requests published on or issued through the Daimon Law account on Github (https://github.com/Daimon-Law) ("Contributions") are offered AS-IS and without any guarantees or warranties of any kind, whether express or implied. 
+Any contributions, repositories and pull requests published on or issued through the Daimon-Law Github ("Contributions") are offered AS-IS and without any guarantees or warranties of any kind, whether express or implied. 
 
 Links To Other Sites: The Contributions may contain links to other sites that are not operated by Daimon Legal. If you click on a third party link, you will be directed to that third party's site. We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites or services. These links are being provided "as-is", as a convenience and for informational purposes only. They do not constitute an endorsement or an approval by Daimon Legal of any of the products, services or opinions of the corporation, organization or individual found on such sites. Please contact the external site for answers to questions regarding their content.
 
