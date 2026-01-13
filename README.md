@@ -1,8 +1,8 @@
 # Terms of Use for *Daimon Law* Contributions and Repositories
 
-By accessing, using, copying or modifying the content of the repositories on the Daimon-Law account on Github (https://github.com/Daimon-Law) (the "Daimon-Law Github"), the contributions, comments and pull requests from, by or on the Daimon-Law Github account, or any other publications, documents, comments or other materials and data created by Daimon Legal or its employees, officers or agents whether: 
+By accessing, using, copying or modifying the content of the repositories on the Daimon-Law account on Github (https://github.com/Daimon-Law), the contributions, comments and pull requests from, by or on the Daimon-Law Github account, (the "Daimon-Law Github"), articles, blogs and content published on the Daimon Legal website (www.daimonlegal.com), or any other publications, documents, comments or other materials and data created by Daimon Legal or its employees, officers or agents whether: 
 
-- published on, or issued through, the Daimon-Law Github;
+- published on, or issued through, the Daimon-Law Github or on www.daimonlegal.com;
 - displayed on public forums; or
 - howsoever published, displayed or disseminated,
 
